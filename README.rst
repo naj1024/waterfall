@@ -2,6 +2,9 @@
 HTML Canvas/WebSockets Waterfall
 ********************************
 
+Used the spectrum.js in a python served spectrum/spectrogram programme, pyspectrum.
+
+
 This is a small experiment to create a waterfall plot with HTML Canvas and WebSockets to stream live FFT data from an SDR:
 
 .. image:: img/waterfall.png
